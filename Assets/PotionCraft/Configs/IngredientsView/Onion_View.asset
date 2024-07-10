@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54105aebb5b243ecaf289d710fd0ccfb, type: 3}
+  m_Name: Onion_View
+  m_EditorClassIdentifier: 
+  <IngredientId>k__BackingField: {fileID: 11400000, guid: 0530b4598a79321418f1b3264a514f9f, type: 2}
+  <Sprite>k__BackingField: {fileID: 8545868988244086034, guid: af9950117c9f1df43badde4c84bb29e8, type: 3}
+  <Name>k__BackingField: "\u041B\u0443\u043A"
+  <Prefab>k__BackingField: {fileID: 7363131740182539984, guid: 0c829d4895ab52346b3ebdfdd576cea0, type: 3}

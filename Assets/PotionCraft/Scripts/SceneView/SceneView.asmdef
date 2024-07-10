@@ -1,0 +1,21 @@
+{
+    "name": "SceneView",
+    "rootNamespace": "",
+    "references": [
+        "Models",
+        "Ji2.Pools",
+        "Update",
+        "Input",
+        "Unity.InputSystem",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

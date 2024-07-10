@@ -1,0 +1,23 @@
+{
+    "name": "CompositionRoot",
+    "rootNamespace": "",
+    "references": [
+        "SceneView",
+        "CommonCore",
+        "Ji2.Pools",
+        "Models",
+        "Input",
+        "UI",
+        "Ji2.Context",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

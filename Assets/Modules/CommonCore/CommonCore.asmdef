@@ -1,0 +1,17 @@
+{
+    "name": "CommonCore",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f9ba9c4f36101ef45a9c63f4abcacc1b",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
